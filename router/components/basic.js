@@ -1,0 +1,1 @@
+export var activeStyle = {backgroundColor:'lightgray'};
